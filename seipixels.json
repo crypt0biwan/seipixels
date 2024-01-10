@@ -1,0 +1,151 @@
+{
+    "name": "SeiPixels",
+    "icon": "770C410BB14C32F2A32A0D7C9FE42B40573723F34B5700E0AAB7B152EA8724C4",
+    "supply": "20",
+    "slug": "seipixels",
+    "description": "A collection of 20 generative pixel art outputs, stored on-chain as Sei inscriptions.",
+    "twitter_link": "https://twitter.com/crypt0biwan",
+    "website_link": "https://crypt0biwan.github.io/seipixels/",
+    "inscriptions": [
+        {
+            "name": "SeiPixels 1",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ2RKUkVGVUdGYzF5ckVSQURBTXdrQ3gvOURLNGRnVUZBOEJaS01TMjBDUzRmYkErbi9jV254TVd4TDRsS01vdlFBQUFBQkpSVTVFcmtKZ2dnPT0=",
+            "tx_id": "770C410BB14C32F2A32A0D7C9FE42B40573723F34B5700E0AAB7B152EA8724C4"
+        },
+        {
+            "name": "SeiPixels 2",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ2RKUkVGVUdGYzFpMEVPQUFBTXdmVC9qKzVDTWljS1ZJRlVhaWhZU3RKaW9PWjV0eHY5N1FCZFR4WDcrdU02YlFBQUFBQkpSVTVFcmtKZ2dnPT0=",
+            "tx_id": "6B4C69420C027837D7D5A07F667F3475E10CF37461FBA7ACCDC6DFCE468368D3"
+        },
+        {
+            "name": "SeiPixels 3",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ2RKUkVGVUdGZEZpa0VPQURBTWd1VC9qM2JWWnFrbklTREp0cFVCNGxPZ01rWGZwaWNLVXowMytnLytNRzhHV3dBQUFBQkpSVTVFcmtKZ2dnPT0=",
+            "tx_id": "3EF39E4200FFBFB649878BEBE1C6055D261D9343380F2D301D563B04D10AB50C"
+        },
+        {
+            "name": "SeiPixels 4",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ05KUkVGVUdGZGpaR0JnK004QUl2NkRLUWJHL3pBV21NdkF3SWhWQlNNalNCd0NBRTdkRC9nWEQ2Y1VBQUFBQUVsRlRrU3VRbUND",
+            "tx_id": "473C8323476132D8AE4D8AEC098CB2185196B888178B033BDC9EC54232C723B6"
+        },
+        {
+            "name": "SeiPixels 5",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1ZKUkVGVUdGZFZ5a0VPQUNBUWcwRDQvNk14R2pmR0hxY0l4RjJGVmVyWWcvUHFEenRidUlzVit4WFV2RWtBQUFBQVNVVk9SSzVDWUlJPQ==",
+            "tx_id": "D8D951CA5E6709FDDE40FFED281163F5215CE7EA4E43E63CB6445E85FD935CD6"
+        },
+        {
+            "name": "SeiPixels 6",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQjVKUkVGVUdGZGpaR0JnK00rQUJCaEJBdi8vSThRWVVYZ01EQXdZQWdDdFR3ejR1RTc0RXdBQUFBQkpSVTVFcmtKZ2dnPT0=",
+            "tx_id": "F515D77F5C424CB0EB830DECBBD843E187AE93C6EFD179FD0D4CF8567B66DBA1"
+        },
+        {
+            "name": "SeiPixels 7",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ2RKUkVGVUdGZFZpemtLQUNBQXc5TC9QenFTUWNFTXBmUVlJSW15amFsbUxpOW9FVlhmNVFDWCtoTCsvZGJaTndBQUFBQkpSVTVFcmtKZ2dnPT0=",
+            "tx_id": "C6EA1BDE240817008A4EA9A2866809380281F9BBE9C65A3CC262BC5C48CDEE0A"
+        },
+        {
+            "name": "SeiPixels 8",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ2RKUkVGVUdGYzlpa0VLQURBQWd1ei9qM1k0eGpxRVNRT2tVcll4MWVETHhGMHY5eEgzQ2cvZmFoWDR6RTluTVFBQUFBQkpSVTVFcmtKZ2dnPT0=",
+            "tx_id": "13E9C14485DDCA57AA8966F19912489B73DD2E42EA895EFBB7276C7851B05B21"
+        },
+        {
+            "name": "SeiPixels 9",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1pKUkVGVUdGYzFpa0VPQUNBQWd1VC9qNlpSeTR2aVFCV1l1cHF0L2FCd3FmR3RqSTV2SFVYOUZmN0NqY1drQUFBQUFFbEZUa1N1UW1DQw==",
+            "tx_id": "CFFB1CA4CC42659DD73F3364E6A7FFE3476C20ECCB02FEA925EF56ECC7BCB2FC"
+        },
+        {
+            "name": "SeiPixels 10",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1pKUkVGVUdGYzlpa0VLQUFBSWcvVC9qMTRzS0UvRGFaSUFxSFI2b25JUFlJdnlSZk5qQVB6ZEV2Z3pvNlB2QUFBQUFFbEZUa1N1UW1DQw==",
+            "tx_id": "161EC6D909C1D6E1D77964A759833B9CF7A2A0E865FB0D74AA0579F1566058F7"
+        },
+        {
+            "name": "SeiPixels 11",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1pKUkVGVUdGZGovUC8vLzM4R0pNQ0lMTURJeU1qQXlNREFBRllCVWdnV0FLa0FNV0E2QVh4YkV2djBjWEdjQUFBQUFFbEZUa1N1UW1DQw==",
+            "tx_id": "6ADDEE02E9F495914EACBCCC0224712BCF03331E868476DEA79D695ADF1A92C2"
+        },
+        {
+            "name": "SeiPixels 12",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1pKUkVGVUdGYzF5Y0VOQUFBSXdzQ3kvOUExR08yTEhBSGtVb2xxa2plNmFqd3U5QzYyQVRlakQvc1VpNk1xQUFBQUFFbEZUa1N1UW1DQw==",
+            "tx_id": "2FBDEAC0BA95CAC87F650665FAB3A6A4A96D015DABDEC4B75F3AF2EF5BA59826"
+        },
+        {
+            "name": "SeiPixels 13",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1JKUkVGVUdGZHRpakVTQUFBTXdlVC9qMDVQdTlaQ2dDb1FOWFdTNW9QcUwzYTZhd2J5T1JMKzJBWjNaZ0FBQUFCSlJVNUVya0pnZ2c9PQ==",
+            "tx_id": "58325E5197333E19B5AABCA27129B7D9FE5C099370E3ED7E18E5B88A6B8FE9BE"
+        },
+        {
+            "name": "SeiPixels 14",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ05KUkVGVUdGZGpaR0JnK1AvLy8zOEdHR0RFRUlCSk16SXlncFF5Z0ZYQWxJTUVBSDdVRXZVWEpGa25BQUFBQUVsRlRrU3VRbUND",
+            "tx_id": "D79C7E157E6DC4BC80D9303E5B2EEE5C5FEC0DED96F0DA2AC9F15BF1C8A7A64D"
+        },
+        {
+            "name": "SeiPixels 15",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1pKUkVGVUdGYzlpc0VOQURBUWdtVC9vV2swemZFVFFSVklVVVBGMW1laXhWNUkyeXNxSDBVZkZmaUZZVGJUQUFBQUFFbEZUa1N1UW1DQw==",
+            "tx_id": "B8E5B0D3966B433F41CFAA5664A09A5610481AE1F7B0AE2A4662145E6ED56166"
+        },
+        {
+            "name": "SeiPixels 16",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ2RKUkVGVUdGZE5pa0VLQURBTWcvVC9qM1owZzdKY0RLSlZLaFZEZndFZzBKelpyUjdYY1FCNGhSWDRMRjhGMXdBQUFBQkpSVTVFcmtKZ2dnPT0=",
+            "tx_id": "3614AB7F72E1123DFB608F76B0BFEB3364B31320E3B3C44D9879AECDA1408CCD"
+        },
+        {
+            "name": "SeiPixels 17",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1JKUkVGVUdGZGxpcUVOQURBUWhHRC9vV2xPdkNvS0VnU3FVQ2U0V2h5ekZuZDl4d1A5b0JMKzZjOHVWZ0FBQUFCSlJVNUVya0pnZ2c9PQ==",
+            "tx_id": "365AC90FA145D3F7785EED44F8B66BAFB6DB4291E8E4DF986A375EF7A6D442CB"
+        },
+        {
+            "name": "SeiPixels 18",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ05KUkVGVUdGZGpaR0JnK1AvLy8zOEdHR0FFQ2NBNElBbE1BWmg2UmtaR2tGNEdBRFBzRXZVbGhJRTJBQUFBQUVsRlRrU3VRbUND",
+            "tx_id": "EF89AAFCDF0A2BFAC3BB8970FBAAEB66EAFFB75025FF8B4821920D482DA2491F"
+        },
+        {
+            "name": "SeiPixels 19",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ1pKUkVGVUdGYzlpc2tOQURBTXd1ejloeVlpVWN1RFd5Q1VFbFE4ZjJIMUZYMFZkdjZyTXROL0ZmdWcrN28wQUFBQUFFbEZUa1N1UW1DQw==",
+            "tx_id": "64087E01E6E6681CF4002DDC31AFB20AF5D6A41241FED98FE63C3F9E9BC1F568"
+        },
+        {
+            "name": "SeiPixels 20",
+            "type": "NFT",
+            "mime_type": "image/png",
+            "base64_data": "ZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBUUFBQUFFQ0FZQUFBQ3A4WjUrQUFBQUFYTlNSMElBcnM0YzZRQUFBQ0pKUkVGVUdGZDlpakVOQUFBTWc4Qy82QzZ0Z0gxQU1Fa0FWSW9DQ3hQRjkraDVMVklWK0tiVWhwNEFBQUFBU1VWT1JLNUNZSUk9",
+            "tx_id": "D7A8E699A3746B9D2C3DAFAD99B803781873172FDC952E735BE9A1CB47B71B5C"
+        }
+    ]
+}
